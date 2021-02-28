@@ -50,9 +50,7 @@ functionalities that all guitarists need.
 Summary:	Guitar Pro data files
 License:	GPL v2+
 Group:		Applications/Multimedia
-%if "%{_rpmversion}" >= "5"
 BuildArch:	noarch
-%endif
 
 %description data
 Guitar Pro data files.
